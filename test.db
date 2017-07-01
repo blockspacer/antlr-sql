@@ -1,0 +1,5 @@
+InstructorName,CRN,
+VARCHAR(10),INT,
+CRN,
+hey,1,
+yo,7,

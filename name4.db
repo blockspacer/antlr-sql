@@ -1,0 +1,6 @@
+col1,col2,col3,col4,
+INTEGER,VARCHAR(10),VARCHAR(20),INTEGER,
+col1,
+10,t,tt,100,
+21,b,bb,450,
+1,a,aa,100,
