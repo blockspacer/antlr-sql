@@ -1,0 +1,21 @@
+OPEN time; 
+loc <- select (location == "HRBB 113") time;
+SHOW loc;
+
+cc <- loc + (select (location == "HRBB 131") time);
+SHOW cc;
+
+CLOSE time;
+OPEN course;
+OPEN enrollment;
+csen <- ((select (subj == "CSCE") course) & (select (rem > 0) enrollment));
+SHOW csen;
+
+CREATE TABLE temp (crn INTEGER, subj VARCHAR(4), crse INTEGER, sec INTEGER, cap INTEGER, act INTEGER, rem INTEGER) PRIMARY KEY (crn);
+INSERT INTO temp VALUES FROM RELATION csen;
+SHOW temp;
+
+UPDATE temp SET subj = "what" WHERE (sec > 507);
+SHOW temp;
+WRITE temp;
+EXIT;

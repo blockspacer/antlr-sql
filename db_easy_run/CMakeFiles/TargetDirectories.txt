@@ -1,0 +1,3 @@
+/home/ubuntu/workspace/db_easy_run/CMakeFiles/rebuild_cache.dir
+/home/ubuntu/workspace/db_easy_run/CMakeFiles/run.dir
+/home/ubuntu/workspace/db_easy_run/CMakeFiles/edit_cache.dir

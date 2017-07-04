@@ -1,0 +1,51 @@
+
+{
+	"sources" : 
+	[
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/CMakeFiles/antlr4cpp"
+		},
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/CMakeFiles/antlr4cpp.rule"
+		},
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/CMakeFiles/antlr4cpp-complete.rule"
+		},
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-install.rule"
+		},
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-mkdir.rule"
+		},
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-download.rule"
+		},
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-update.rule"
+		},
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-patch.rule"
+		},
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-configure.rule"
+		},
+		
+		{
+			"file" : "/home/ubuntu/workspace/Project 3/Parser/c++_build/locals/antlr4cpp/src/antlr4cpp-stamp/antlr4cpp-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : [ "antlr4cpp" ],
+		"name" : "antlr4cpp"
+	}
+}
