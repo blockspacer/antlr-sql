@@ -12,7 +12,7 @@ OPTIONS TO RUN
 (However if you want to compile there is some setup)
 (C++ version) HOWTO build & run (outside of cloud9):
 ================================================================================
-Navigate to: Submission3/c++_build
+Navigate to: Submission3/c++_build/
 ----------------------------------
 If you just want to run it type :
 ./run" or "./run -f inputfile.txt"

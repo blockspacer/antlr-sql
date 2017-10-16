@@ -1,0 +1,8 @@
+-- extracting...
+     src='/home/ubuntu/workspace/Project 3/Parser/c++_src/thirdparty/antlr/antlr4-master.zip'
+     dst='/home/ubuntu/workspace/Project 3/Parser/c++_build/locals/antlr4cpp/src/antlr4cpp'
+-- extracting... [tar xfz]
+-- extracting... [analysis]
+-- extracting... [rename]
+-- extracting... [clean up]
+-- extracting... done
